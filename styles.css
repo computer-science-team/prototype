@@ -1,0 +1,36 @@
+/* Global styles 
+------------------------------------*/
+/* border box fix */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  background-color: azure;
+}
+a {
+    color:blueviolet;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.tags{
+    font-weight: 700;
+    font-family: 'fantasy', sans-serif;
+    font color: black;
+}
+
+.focusBox{
+    background-color: #067BC2;
+    padding:5px;
+    margin:auto;
+}
+
+
+
