@@ -1,1 +1,2 @@
 # prototype
+# Authors: Tim McClintock, 
