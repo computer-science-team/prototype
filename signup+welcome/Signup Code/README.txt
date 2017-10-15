@@ -5,3 +5,7 @@ Changes done By: Dharmik Pandya, 10/11/2017, 9:46 PM
 Signup Page was updated on 10/14
 Changes: connected to database
 Changes done By: Yousuf Ahmed, 10/14/2017, 5:10 PM
+
+Signup Page was updated on 10/15
+Changes: goes to welcome page
+Changes done By: Yousuf Ahmed, 10/15/2017, 11:38 PM
