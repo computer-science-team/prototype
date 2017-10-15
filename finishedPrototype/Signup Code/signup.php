@@ -102,7 +102,7 @@ if(isset($_POST['submit']))
 				</select> </p>
 				<form>
 				<input type="submit" name="submit" value="Submit">
-				<p><a  href="signinpage.php">Sign In</a></p>
+				<p><a  href="login.php">Sign In</a></p>
 				<p><a href="#">Forget Password?</a></p>
 			</form>
 		</div>
